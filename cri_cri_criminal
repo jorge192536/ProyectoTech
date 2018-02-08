@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  Nombre: <br>
+  <input type="text" name="nombre" value="Jorge"> <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
+
+-----------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  Nombre: <br>
+  <input type="text" name="nombre" value="Jorge"> <br><br>
+  Apellido Paterno: <br>
+  <input type="text" name="ap_P" value="Gonzalez"> <br><br>
+  Apellido Materno: <br>
+  <input type="text" name="ap_M" value="Frias"> <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>
+
+----------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> About </title>
+</head>
+<body>
+
+</body>
+</html>

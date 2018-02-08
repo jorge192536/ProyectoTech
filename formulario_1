@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  Nombre: <br>
+  <input type="text" name="nombre" value="Jorge"> <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+</html>

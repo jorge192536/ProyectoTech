@@ -3,7 +3,7 @@
 <body>
 
 <form action="/action_page.php">
-  Nombre: <br>
+  Nombre(s): <br>
   <input type="text" name="nombre" value="Jorge"> <br><br>
   <input type="submit" value="Submit">
 </form> 
